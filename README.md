@@ -438,6 +438,7 @@ Tools for sound effects, music, and general audio.
 *   [LMMS](https://lmms.io/)- Cross-platform, free, open source music tracker/sequencer/composer. Has its own instruments, some VST plugins compatibility
 *   [VCV Rack](https://vcvrack.com) - Virtual Eurorack DAW. Cross-platform, free, open source virtual modular synthesiser. Lots of modules and a good community. You can even code your own modules if you know C++.
 *   [Pure Data](https://puredata.info/) - open-source cousin of experimental patching environment MAX/MSP
+*   [XJ music](https://xjmusic.com/) - open-source DAW and music engine to enable composers to realize new possibilities in dynamic music for video games.
 
 
 <a name="Other-sound-tools"></a>
